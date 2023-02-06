@@ -8,5 +8,4 @@ Materials:
 - Attiny85
 - 1m ohm resistant
 
-
-![Untitled](https://user-images.githubusercontent.com/35146324/216926847-96a8877a-ba92-489b-b83d-0ea5bec35095.png)
+![image](https://user-images.githubusercontent.com/35146324/216927017-59be2db9-58ab-4ce3-b788-73793a19e051.png)
