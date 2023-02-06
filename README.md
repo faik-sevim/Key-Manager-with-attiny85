@@ -9,3 +9,4 @@ Materials:
 - 1m ohm resistant
 
 
+![Untitled](https://user-images.githubusercontent.com/35146324/216926847-96a8877a-ba92-489b-b83d-0ea5bec35095.png)
